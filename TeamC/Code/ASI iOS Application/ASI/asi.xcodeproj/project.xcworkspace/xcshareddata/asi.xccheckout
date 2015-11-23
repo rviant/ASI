@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>5A724E51-CD50-4EEE-A5F8-561A0723688F</string>
+	<key>IDESourceControlProjectName</key>
+	<string>asi</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>343506A546F6D82772AF61F822B63DA77F345011</key>
+		<string>https://github.com/LuAndreCast/TeamC</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Code/ASI iOS Application/ASI/asi.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>343506A546F6D82772AF61F822B63DA77F345011</key>
+		<string>../../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/LuAndreCast/TeamC</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>343506A546F6D82772AF61F822B63DA77F345011</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>343506A546F6D82772AF61F822B63DA77F345011</string>
+			<key>IDESourceControlWCCName</key>
+			<string>TeamC</string>
+		</dict>
+	</array>
+</dict>
+</plist>

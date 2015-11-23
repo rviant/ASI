@@ -1,0 +1,35 @@
+
+website:  http://45.55.57.54/asi/
+          or
+	  http://luiscastillo.me/asi/
+
+
+server IP: 45.55.57.54
+
+
+Log in credentials:
+
+Eric Aguiar
+--------------------------
+username:	eric
+password:	password1
+
+
+Rodolfo Viant
+-------------------------
+username:	rodolfo
+password:	password1
+
+
+
+
+
+how to connect?
+---------------
+-open terminal and type the below command
+(remember to replace 'user' with your actual username)
+
+	ssh user@45.55.57.54
+
+-then type in your password
+

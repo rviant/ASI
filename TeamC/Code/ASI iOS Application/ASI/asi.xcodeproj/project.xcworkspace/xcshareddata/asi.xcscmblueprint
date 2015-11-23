@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "343506A546F6D82772AF61F822B63DA77F345011",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "343506A546F6D82772AF61F822B63DA77F345011" : 0,
+    "9FB8F1DC168B3D84B129282D17A29E8272770E5A" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "5A724E51-CD50-4EEE-A5F8-561A0723688F",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "343506A546F6D82772AF61F822B63DA77F345011" : "asi\/",
+    "9FB8F1DC168B3D84B129282D17A29E8272770E5A" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "asi",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Code\/ASI iOS Application\/asi\/asi.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/LuAndreCast\/TeamC.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "343506A546F6D82772AF61F822B63DA77F345011"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/LuAndreCast\/LuisCastilloWebSite.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "9FB8F1DC168B3D84B129282D17A29E8272770E5A"
+    }
+  ]
+}
